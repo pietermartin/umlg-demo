@@ -1,1 +1,8 @@
 /.idea
+*.iml
+/bankfrauddetection/bankfrauddetection-generator/target
+/quick-preview/quick-preview-application/quick-preview-entities/target
+/quick-preview/quick-preview-application/quick-preview-jetty/target
+/quick-preview/quick-preview-application/quick-preview-restlet/target
+/quick-preview/quick-preview-application/quick-preview-war/target
+/quick-preview/quick-preview-generator/target
